@@ -1,0 +1,81 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: linear-gradient(to right, #ffffff00 65%, #f2ea00ca 35%);
+}
+
+.header { 
+  justify-content: space-between;
+ 
+}
+
+.btn:hover{
+  border-bottom: 2px solid black;
+  
+}
+
+.navBtn:hover {
+  border-bottom: 2px solid black;
+}
+
+h2{
+  margin: 140px 50px 10px;
+  font-family: 'Kaisei Tokumin', serif; 
+  font-size: 40px;
+}
+
+h1{
+  margin-left: 50px ;
+  font-family: 'Baloo Bhaina', serif; 
+  font-size: 60px; 
+}
+.frase{
+height: 220px;
+width: 580.px;
+left: 52px;
+top: 115px;
+}
+.estrela{
+position: absolute;
+width: 165px;
+height: 42px;
+left: 51px;
+}
+
+.avaliacao{
+margin-left: 230px;
+top: 467px;
+
+font-family: 'Baloo Tammudu 2';
+font-size: 34px;
+line-height: 30px;
+}
+.texto{
+  position: absolute;
+  width: 510px;
+  height: 324px;
+  left: 51px;
+  top: 400px;
+
+font-family: 'Baloo Tammudu 2';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 47px;
+}
+.modelo1{
+position: absolute;
+width: 438px;
+height: 360px;
+left: 520px;
+top: 200px;
+}
+.modelo2{
+  position: absolute;
+width: 438px;
+height: 410px;
+left: 720px;
+top: 160px;
+}

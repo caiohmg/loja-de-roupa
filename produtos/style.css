@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: linear-gradient(to right, #000000be 65%, #f2ea00ca 35%);
+}
+.header { 
+  justify-content: space-between;
+  
+
+
+ 
+}
+
+.btn:hover{
+  color: #eeeeee;
+  border-bottom: 2px solid rgb(0, 0, 0);
+  
+}
+
+.navBtn:hover {
+  color: #eeeeee;
+  border-bottom: 2px solid rgb(255, 250, 250);
+}
+
+.container2{
+  background-image: linear-gradient(to right, #000000df 65%, #f2ea00ca 35%);
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #eeeeee;
+
+}
